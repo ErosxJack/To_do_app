@@ -19,14 +19,15 @@ Here are some screenshots of the app:
 
 <div align ="center">
   <img src="https://github.com/user-attachments/assets/0fa600c6-e96d-4784-b601-e0f9ff9d5026" width="300"/>
+</div>
   
-
 <div align ="center">
   <img src="https://github.com/user-attachments/assets/7f370b81-9cb3-42e4-961e-e1aa0e3faa6d" width="300"/>
+</div>
 
 <div align ="center">
   <img src="https://github.com/user-attachments/assets/7a38b21a-13ab-4360-8706-4ecccd7c7d28" width="300"/>
-
+</div>
 
 ## Installation:
 
@@ -34,4 +35,4 @@ To run this project locally, you need to have **Flutter** installed on your syst
 
 ### 1. Clone the repository:
 
-git clone 
+git clone "https://github.com/ErosxJack/To_do_app.git"
